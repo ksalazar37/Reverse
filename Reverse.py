@@ -1,12 +1,10 @@
 #  File: Reverse.py
-#  Description: Homework 4. A program that reverses the order of digits of a user-entered four-digit number.
+#  Description: A program that reverses the order of digits of a user-entered four-digit number.
 #  Student's Name: Kristina Salazar
-#  Student's UT EID: KIS345
 #  Course Name: CS 303E
-#  Unique Number: 51205
-#
+
 #  Date Created: 09 / 14 / 2018
-#  Date Last Modified: 09 / 14 / 2018
+#  Date Last Modified: 09 / 15 / 2018
 
 
 def main():
