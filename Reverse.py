@@ -1,16 +1,11 @@
 #  File: Reverse.py
-#  Description: A program that reverses the order of digits of a user-entered four-digit number.
+#  Description: A short program that reverses the order of digits of a user-entered four-digit number.
 #  Date Created: 09 / 14 / 2018
 #  Date Last Modified: 01 / 06 / 2019
 
 def main():
-
-    # variables:
-    # number: user-entered 4 digit number
-    # a, b, c etc: alphabetical variables used during algorithmic calculations
-
     number = int(input("Enter an integer: "))
-
+    
     a = number % 10                # a: first digit of reversed number
 
     b = (number % 100) - a
